@@ -1,5 +1,5 @@
 #Contact {
-  font-size: 1000px;
+  font-size: 1rem;
   font-style :normal;
   font-weight: bold;
   font-family:'Nunito', sans-serif;
@@ -16,7 +16,7 @@ h1 {
 
 }
 h2 {
-  font-size: 1000px;
+  font-size: 1rem;
   font-style :normal;
   font-weight: bold;
   font-family:'Nunito', sans-serif;
@@ -35,7 +35,7 @@ h2 {
   justify-content: flex-end;
 }
 .Head {
-  font-size: 1000px;
+  font-size: 1rem;
   font-style :normal;
   font-weight: bold;
   font-family:'Nunito', sans-serif;
@@ -43,14 +43,14 @@ h2 {
 }
 .summary{
 
-  font-size: 1000px;
+  font-size: 1rem;
   font-style: normal;
   font-weight: bold;
   font-family:'Nunito', sans-serif;
   color: #1D1818;
 }
 .sectionContent {
-  font-size: 1500px;
+  font-size: 1rem;
   font-style :normal;
   font-weight: bold;
   font-family:'Nunito', sans-serif;
@@ -83,7 +83,7 @@ section {
     background-color: hsla(0,75%,50%,.4);
     transform-origin: 0% 0%;
     background-attachment: fixed;
-    font-size: 1000px;
+    font-size: 1rem;
     font-style :normal;
     font-weight: bold;
     font-family:'Nunito', sans-serif;
@@ -98,7 +98,7 @@ section {
       hsla(0,100%,50%,.6)
       ),
       url(http://lorempixel.com/i/1000/1000);
-      font-size: 1000px;
+      font-size: 1rem;
       font-style :normal;
       font-weight: bold;
       font-family:'Nunito', sans-serif;
@@ -114,7 +114,7 @@ section {
         hsla(110,100%,50%,.6)
         ),
         url(http://lorempixel.com/s/1000/1000);
-        font-size: 1000px;
+        font-size: 1rem;
         font-style :normal;
         font-family:'Nunito', sans-serif;
         font-weight: bold;
@@ -130,7 +130,7 @@ section {
           hsla(45,100%,50%,.6)
           ),
           url(http://lorempixel.com/a/1000/1000);
-          font-size: 1000px;
+          font-size: 1rem;
           font-style :normal;
           font-family:'Nunito', sans-serif;
           font-weight: bold;
@@ -147,7 +147,7 @@ section {
             hsla(210,100%,50%,.6)
             ),
             url(http://lorempixel.com/t/1000/1000);
-            font-size: 1000px;
+            font-size: 1rem;
             font-style :normal;
             font-family:'Nunito', sans-serif;
             font-weight: bold;
@@ -163,7 +163,7 @@ section {
               hsla(70,50%,25%,.6)
               ),
               url(http://lorempixel.com/t/1000/1000);
-              font-size: 1000px;
+              font-size: 1rem;
               font-style :normal;
               font-family:'Nunito', sans-serif;
               font-weight: bold;
